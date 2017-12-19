@@ -34,6 +34,7 @@ import javax.mail.internet.MimeMultipart;
 import com.quickveggies.UserGlobalParameters;
 
 public class EmailUtil {
+	
 
 	private static final String email_api_key = "e6be3a9f-9421-459f-80b7-b2d675bdcc0e";
 
